@@ -16,7 +16,7 @@ A simple `C++ Program` to find `Factorial` of given number using `Fork System Ca
     ./a.out
     ```
     
-### Working Screenshots
+### Working Screenshot
 <div align="center">
   <img src = "https://github.com/SameetAsadullah/Calculate-Factorial-Using-Fork/blob/main/extras/working-ss.png" alt = "" width="700px"/>
 </div>
