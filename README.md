@@ -6,7 +6,7 @@ A simple `C++ Program` to find `Factorial` of given number using `Fork System Ca
 2) Takes `Input in Child Process` and calculates factorial in parent process `(main0)`
 
 ### Manual
-1) Use the following command to `Complie the Code`:
+1) Use the following command to `Compile the Code`:
     ```
     g++ main.cpp
     ```
